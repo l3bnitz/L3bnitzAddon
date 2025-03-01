@@ -1,0 +1,7 @@
+## Interface: 110100
+## Version: 0.0.1
+## Title: L3bnitz Addion
+## Notes: Personal WoW Addon
+## Author: L3bnitz
+
+L3bnitzAddon.lua
